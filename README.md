@@ -1,9 +1,9 @@
-# Hi, I'm Dominic 👋
+## Hi, I'm Dominic 👋
 
 
-I'm a software engineer that is currently enrolled through General Assembly for Computer Engineering. I a hungry learner that has a passion for creating things. I enjoy working out and watching football every sunday.
+I'm a software engineer that is currently enrolled through 'General Assembly' for Computer Engineering. I a hungry learner that has a passion for creating things. I enjoy working out and watching football every sunday.
 
-## Talking about Personal Stuff:
+### Talking about Personal Stuff:
 
 - 🔭 I’m currently working on NFL_List
 - 🌱 I’m currently learning JavaScript & React.js;
