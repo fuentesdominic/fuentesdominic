@@ -7,7 +7,7 @@ I'm a software engineer that is currently enrolled through *General Assembly* fo
 
 - 🔭 I’m currently working on [NFL_List](https://github.com/fuentesdominic/NFL_List)
 - 🌱 I’m currently learning `JavaScript` & `MERN` Stack
-- 👯 I’m looking to collaborate on anything `Javascript`
+- 👯 I’m looking to collaborate on anything in `Javascript`
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: militaryforce1@yahoo.com
 - ⚡ Fun fact: I created my first company when I was *14*!
