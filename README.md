@@ -11,5 +11,5 @@ I'm a software engineer that recently graduated from *General Assembly* Immersiv
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: DominicFuentes1@yahoo.com 
 - ⚡ Fun fact: I created my first company when I was *14*!
-- 📝 [Resume](https://docs.google.com/document/d/1Pylc9THUuhcQYnl32cb70ohzEIzTWbfdaV9T-egeNWo/edit?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/13EZzbupTfKS3CSzTydAIo1M4spQxeOgnOvWgXOXrKig/edit?usp=sharing)
 
