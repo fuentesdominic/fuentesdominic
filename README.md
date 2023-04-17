@@ -1,7 +1,7 @@
 ## Hi, I'm Dominic 👋
 
 
-I'm a software engineer that recently graduated from *General Assembly* Immersive Computer Engineering Program. I a hungry learner that has a passion for creating things. I enjoy working out and watching football every sunday.
+I'm a software engineer that recently graduated from *General Assembly* Immersive Computer Engineering Program. I'm an eager learner that has a passion for creating things. I enjoy working out and watching football every sunday.
 
 ### Personal Stuff:
 
