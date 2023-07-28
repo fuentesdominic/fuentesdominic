@@ -5,7 +5,7 @@ I'm a software engineer that recently graduated from *General Assembly* Immersiv
 
 ### Personal Stuff:
 
-- 🔭 I’m currently working on [Athletics-Daily](https://github.com/fuentesdominic/Athletics-Daily)
+- 🔭 I’m currently working on [HealthChat](https://github.com/fuentesdominic/HealthChat)
 - 🌱 I’m currently learning `FrontEnd Development` 
 - 👯 I’m looking to collaborate on anything in `Javascript`
 - 💬 Ask me about anything, I am happy to help!
