@@ -14,3 +14,10 @@ I'm a software engineer that recently graduated from *General Assembly* Immersiv
 - 📝 [Resume](https://docs.google.com/document/d/13EZzbupTfKS3CSzTydAIo1M4spQxeOgnOvWgXOXrKig/edit?usp=sharing)
 
 ![Dominic GitHub stats](https://github-readme-stats.vercel.app/api?username=fuentesdominic&show_icons=true&theme=transparent)
+
+<a href="https://github.com/fuentesdominic/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fuentesdominic" />
+</a>
+<a href="https://github.com/fuentesdominic/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuentesdominic&layout=compact&langs_count=8&card_width=320" />
+</a>
