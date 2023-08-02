@@ -13,7 +13,7 @@ I'm a software engineer that recently graduated from *General Assembly* Immersiv
 - ⚡ Fun fact: I created my first company when I was *14*!
 - 📝 [Resume](https://docs.google.com/document/d/13EZzbupTfKS3CSzTydAIo1M4spQxeOgnOvWgXOXrKig/edit?usp=sharing)
 
-![Dominic GitHub stats](https://github-readme-stats.vercel.app/api?username=fuentesdominic&show_icons=true&theme=github_dark)
+![Dominic GitHub stats](https://github-readme-stats.vercel.app/api?username=fuentesdominic&show_icons=true&theme=holi)
 
 <a href="https://github.com/fuentesdominic/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fuentesdominic" />
