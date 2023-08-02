@@ -15,6 +15,10 @@ I'm a software engineer that recently graduated from *General Assembly* Immersiv
 
 ![Dominic GitHub stats](https://github-readme-stats.vercel.app/api?username=fuentesdominic&show_icons=true&theme=transparent)
 
+<!-- GitHub Profile Summary Cards -->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuentesdominic&theme=dracula)](https://github.com/fuentesdominic)
+
+
 <a href="https://github.com/fuentesdominic/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fuentesdominic" />
 </a>
