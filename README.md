@@ -7,7 +7,7 @@ Software Engineer
 I'm a software engineer that recently graduated from General Assembly Immersive Computer Engineering Program. I'm an eager learner that has a passion for creating things. I enjoy working out and watching football every sunday.
 
 * 🌍  I'm based in St. Louis, MO
-* 🖥️  See my portfolio at [Dominic's Portfolio](http://https://dominc-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [Dominic's Portfolio](https://dominc-portfolio.vercel.app/)
 * ✉️  You can contact me at [dominicfuentes1@yahoo.com](mailto:dominicfuentes1@yahoo.com)
 * 🚀  I'm currently working on [Metric Conversion](http://https://github.com/fuentesdominic/metric-conversion)
 * 🧠  I'm learning Frontend Development
